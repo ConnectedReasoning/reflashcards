@@ -1,0 +1,255 @@
+{"_id":{"$oid":"5cb33e791e0f6beae08d4912"},"term":"Assignee","definition":"The person to whom a claim, benefit, or right in property is made.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4953"},"term":"Duress","definition":"The use of force to get agreement in accepting a contract.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4963"},"term":"Executor","definition":"A person named in a will to administer an estate. The court will appoint an administrator if no executor is named. \"Executrix\" is the feminine form.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4968"},"term":"Fee Simple","definition":"The greatest possible interest a person can have in real estate.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d496a"},"term":"Fee Simple Estate","definition":"An unconditional, unlimited estate of inheritance that represents the greatest estate and most extensive interest in land that can be enjoyed. It is of perpetual duration. When the real estate is in a condominium project, the unit owner is the exclusive owner only of the air space within his or her portion of the building (the unit) and is an owner in common with respect to the land and other common portions of the property.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d497e"},"term":"Implied Contract","definition":"Agreement shown by acts and conduct rather than words","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4983"},"term":"Judgment","definition":"A decision made by a court of law. In judgments that require the repayment of a debt, the court may place a lien against the debtor's real property as collateral for the judgment's creditor.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4991"},"term":"Listing","definition":"A contract by which a principal employs an agent to do certain things for the principal.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d49b2"},"term":"Personal Property","definition":"Any property that is not real property.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d49b8"},"term":"Power of Attorney","definition":"A legal document that authorizes another person to act on one's behalf. A power of attorney can grant complete authority or can be limited to certain acts and/or certain periods of time.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d49c1"},"term":"Private Grant","definition":"The granting of privat property to other private persons","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d49cd"},"term":"Real Estate Agent","definition":"A person licensed to negotiate and transact the sale of real estate.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d49ce"},"term":"Ratified","definition":"Approved.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d49ea"},"term":"Tender","definition":"An offer by one of the parties to a contract to carry out his or her part of the contract","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d49fa"},"term":"Undue Influence","definition":"Using unfair advantage to get agreement in accepting a contract.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d49fc"},"term":"Estate","definition":"A legal interest in land that defines the nature, degree, extent and duration of a persons ownership in land.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d49fd"},"term":"Unilateral Contract","definition":"An agreement in which one party promises to pay consideration for the performance of an act by another party. The party promising to pay consideration is not legally obligated to act unless the party promising to perform, does so.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d49fe"},"term":"Condidtion Precedent","definition":"A condition which requires something to occur before a transaction becomes absolute and enforceable. For example, a sale that is contignent on the buyer obtaining financing","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d49ff"},"term":"Misrepresentation","definition":"An innoent or negligent misstatement of material fact which causes someone loss or harm.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a00"},"term":"Contract","definition":"An agreement to do or not do a certain thing.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a01"},"term":"Alienate","definition":"Transfer ownership or sell.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a02"},"term":"Real Estate Law","definition":"The law that affects the licensing and conduct of real estate agents.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a03"},"term":"Real Property","definition":"Land, anything affixed to the land, anything appurtenant to the land, anything immovable by law.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a04"},"term":"Sublease","definition":"Transfer less than the entire household, with the original lessee being primarily liable.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a05"},"term":"Fixture","definition":"Personal property that has become affixed to real estate.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a06"},"term":"Patents","definition":"Deeds used by the U.S. government when confirming or transferring ownership to private parties.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a07"},"term":"Patent Deed","definition":"A deed fiven by the government to a private individual as evidence of transfer of title from the government to the public person.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a08"},"term":"Appurtencance","definition":"Those rights, privaleges and improvements that belong to and pass with the transfer of real property, but are not necissarily a part of the actual propery.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a09"},"term":"Conveyance","definition":"The transfer of title to land from one person to another by use of a written instrument.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a0a"},"term":"Fiduciary","definition":"A relationship that implies a position of trus or confidence.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a0b"},"term":"Meridian","definition":"A survey line running north and south, used as a refrence when mapping land.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a0c"},"term":"Avulsion","definition":"The sudden washing or tearing away of the land by action of water.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a0d"},"term":"Subagent","definition":"An agent of a person who is already acting as an agent for a principal.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a0e"},"term":"Eegress","definition":"A way to exit the property.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a0f"},"term":"Lis Pendens","definition":"A recorded notice that indicates pending litigation on a property that prevents conveyance or any other transfer of ownership.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a10"},"term":"Estoppel","definition":"A legal doctorine which prevents a person from denying something to be true or a fact, if the denial is contrary to previous statements or actions made by that same person.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a11"},"term":"Littoral","definition":"Land bordering a lake, ocean or sea as opposed to a land bordering a stream or river(running water).","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a12"},"term":"Erosion","definition":"The gradual wearing away of land by natural process.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a13"},"term":"Adverse Possession","definition":"Aquiring title to property by continued posession and payment of taxes.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a14"},"term":"Easement","definition":"The right to use another's land for a specified purpose; sometimes known as a right-of-way.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a15"},"term":"Baseline","definition":"A survey line running east to west and used as a reference when mapping land.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a16"},"term":"Abrogation","definition":"The revocation, recission, or anulling of a contract by mutual consent of the parties to the contract, or for cause by either party to the contract.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a17"},"term":"Metes and Bounds","definition":"A method of land description in which the dimensions of the property are measured by distance and direction.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a18"},"term":"Ratification","definition":"The approval of a previously authorized act, peformed on behalf of a person, which makes the act valid and legally binding.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a19"},"term":"Reliction","definition":"Occurs when land that has been covered by water is exposed by the receding of the water.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a1a"},"term":"Consideration","definition":"Something of value, such as money, a promise, proerty or personal services.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a1b"},"term":"Unilateral Recision","definition":"Legal action taken to repeal a contract by one party when the other party has breached a contract.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a1c"},"term":"Voidable","definition":"An agreement which is valid an enforceable on its face, but may be rejected by one or more of the parties.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a1d"},"term":"Definite and Certain","definition":"Precise acts to be performed are to be clearly stated.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a20"},"term":"Public Dedication","definition":"When private property is intended for public use, it may be acquired in this manner.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a21"},"term":"Alluvial Deposit","definition":"Sand or mud carried by water and deposited on land.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a22"},"term":"Mutual Consent","definition":"Sgreement to the provisions of a contract by the parties involved; a mutual willingness to enter into a contract.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a23"},"term":"Breach of Contract","definition":"A failure to peform on part or all of the terms and conditions of a contract.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a24"},"term":"Bill of Sale","definition":"A written agreement used to transfer ownership in personal property.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a25"},"term":"Encroachment","definition":"The placement of permanent improvements on adjacent property owned by another.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a26"},"term":"Accession","definition":"The acquisition of title to additional land or to improvements as a result of the annexation of fixtures or as a result of alluvial deposits aling the banks of streams by accretion.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a27"},"term":"Revoke","definition":"Recall and make void.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a28"},"term":"Oferee","definition":"The party receiving an offer","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a29"},"term":"Void","definition":"An agreement which is totally absent of legal effect.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a2a"},"term":"Customer","definition":"A prospective buyer of real estate.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a2b"},"term":"Easment in Gross","definition":"An easement that is not appertunent to any one parcel, for example public utilities.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a2c"},"term":"Life Estate","definition":"An estate that is limited in duration to life of its owner or the life of some other chosen person.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a2d"},"term":"Real Estate Salesperson","definition":"Someone holding a real estate icense and employed by a licensed real estate broker. In some states the salesperson is called a sales agent or sales associate.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a2f"},"term":"Section","definition":"An area of land used in the U.S. Public Land Survey method of land description; a land area of one square mile or 640 acres; 1/36 of a township.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a30"},"term":"Conversion","definition":"An appropriation of property belonging to another.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a31"},"term":"Less-Than-Freehold Estate","definition":"A leasehol estate that is considered to exist for a definite period of time or successive periods of time until termination.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a32"},"term":"Homestead","definition":"Status provided to a homeowner's primcipal residence that protects the home against judgements.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a33"},"term":"Linear Foot","definition":"A measurement one foot or twelve inches in length as contrasted to a square foot or a cubic foot.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a34"},"term":"Dual Agent","definition":"An agent ho represents both parties in a transaction.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a35"},"term":"Accretion","definition":"A build-up of soil by natural causes on property bordering a river, lake or ocean.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a36"},"term":"Suspend","definition":"Temporarily make ineffective.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a37"},"term":"Forebearance","definition":"Refraining from action by a creditor against the debt owed by a borrower after the debt has become due.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a39"},"term":"Specific Performance","definition":"An action brought in a cour to compel a party to carry out the terms of a contract.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a3a"},"term":"Chattel","definition":"Personal property.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a3b"},"term":"Contractual Intent","definition":"Intention to be bound by an agreement, thus preventing jokes and jests from becoming valid contracts. ","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a3f"},"term":"Timely Manner","definition":"An act must be performed within certain time limits as described in a contract.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a40"},"term":"Present Interest","definition":"An interest in real property that can be exercised today.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a41"},"term":"Grant Deed","definition":"A type of deed in which the grantor warrants that he or she has not previously conveyed the property being granted, that he or she has not encumbered the property except disclosed, and that he or she will convey to the grantee any title to the property acquired later.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a42"},"term":"Executory Contract","definition":"A contract in which an obligation to perform exists on one or both sides of the contract.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a43"},"term":"Statute of Limitations","definition":"A statute limiting the period of time during which legal action may be taken on a certain issue.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a44"},"term":"Offer","definition":"A presentation or proposal for acceptance to a form of contract.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a45"},"term":"Land Grant","definition":"A grant of public lands by the government. Usually for roads, railroads, or agricultural colleges.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a46"},"term":"Natural Person","definition":"An individual; a private person as distinguished from an entity such as a corporation or a partnership.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a47"},"term":"Acceptance","definition":"An unqualified aggreement to the terms of an offer.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a48"},"term":"Estate in Fee","definition":"A freehold estate that is the most complete form of ownership of real property; also know as a fee, fee simple or fee simple absolute. It is an estate of inheritence.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a49"},"term":"Puffing","definition":"Exaggerated comments or opinions not made as representations of facts, and thus not grounds for misrepresentations.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a4a"},"term":"Executed Contract","definition":"A contract in which the obligations have been performed on both sides of the contract and nothing is left to be completed.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a4b"},"term":"Action","definition":"A lawsuit brought to court.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a4c"},"term":"Novation","definition":"The substitution by agreeement of a new obligation for an existing one.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a4d"},"term":"Counteroffer","definition":"The rejection of an original offer that becomes a new offer.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a4e"},"term":"Offeror","definition":"The party making an offer","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a4f"},"term":"Future Interest","definition":"An interest in real property that cannot be exercised today, but that might be exercised in the future.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a50"},"term":"Condition Subsequent","definition":"A condition which, if it occurs at some point in the future, can cause a property to revert to the grantor: for example, a requirement in a grant deed that a buyer must never use the property for anything other than a private residence.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a51"},"term":"Express Contract","definition":"The parties declare the term and put their intentions in words, either oral or written.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a52"},"term":"Convey","definition":"To transfer ownership of title.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a53"},"term":"Real Estate Associate Licensee","definition":"A person with a real estate license who is employed or sponsered by a real estate broker.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a54"},"term":"Execute","definition":"To perform or complete, to sign.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a56"},"term":"Riparian Rights","definition":"The rights of a landowner whose land is net to a natural watercourse to a reasonable use of whatever water flows past the property.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a57"},"term":"Commingling","definition":"To deposit client funds in the broker's personal account.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a59"},"term":"Severalty","definition":"Ownershp of real property by one person or entity.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a5a"},"term":"Monument","definition":"A fixed landmark used in a metes and bounds land descriptions.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a5b"},"term":"Ethics","definition":"A set of principles or values by which an individual guides his or her own behavior and judges that of others.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a5c"},"term":"License","definition":"Precission to use a property which may be revoked at any time.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a5d"},"term":"Agency","definition":"A relationship in which one party (principal) authorizes another party (agent) to act as the principal's representative in dealing with third parties.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a5e"},"term":"Police Power","definition":"The power of the state to pass laws, within lawful limits, that promote order, safety, health, morals and general welfare of its citizens.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a60"},"term":"Posessory Interest","definition":"Present right to physically occupy land and exclude others from the same land.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a61"},"term":"Fee Simple Defeasable","definition":"An estate in which the holder has a fee simple title that is subject to return the grantor if a specified condition occurs; also known as a fee simple qualified.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a62"},"term":"Agent","definition":"A person who acts for and in the place of another, called a principal for the purpose of affecting the principal's legal relationship with third persons.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a63"},"term":"Property","definition":"The rights or interests an owner has in something owned.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a64"},"term":"Instrument","definition":"A written legal document setting forth the rights and liabilities of the parties involved.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a69"},"term":"Ingress","definition":"A way to enter property; access.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a6a"},"term":"Attorney-in-fact","definition":"A competent and disinterested person who is authorized by another person to act in his or her place in legal matters.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a6c"},"term":"Doctorine of Correlative User","definition":"Owners may use a reasonable amount of the total water supply for beneficial use.","category":"legal"}
+{"_id":{"$oid":"5cb33e791e0f6beae08d4a7c"},"term":"Assignment","definition":"The transfer of a claim benefit or right in property from one person to another person.","category":"legal"}
+{"_id":{"$oid":"5cb3503d252abe4cf0959d18"},"term":"Alluvium","definition":"Soil that builds up as a result of accretion.","category":"legal"}
+{"_id":{"$oid":"5cb350eb252abe4cf0959d19"},"term":"Arms's Length Transaction","definition":"A transaction, such as a sale of property, in which all parties involved are acting in their own self-interest and are under no undue influence or pressure from other parties.","category":"legal"}
+{"_id":{"$oid":"5cb35a01252abe4cf0959d1a"},"term":"Assignor","category":"legal","definition":"The person transfering a claim, benefit, or right in a property to another."}
+{"_id":{"$oid":"5cb35b4c252abe4cf0959d1b"},"term":"Bilateral Contract","definition":"A contract in which each party to the contract promises to perform some act or duty in exchange for the promise of the other party.","category":"legal"}
+{"_id":{"$oid":"5cb35c47252abe4cf0959d1c"},"term":"Chattel Real","definition":"An item of personal property which is connected to real estate, for example, a lease.","category":"legal"}
+{"_id":{"$oid":"5cb35c88252abe4cf0959d1d"},"term":"Client","definition":"The person who employs an agent to perform a service for a fee.","category":"legal"}
+{"_id":{"$oid":"5cb5f95d252abe4cf0959d1e"},"term":"Emblements","definition":"Annual crops produced for sale by a tenant using or occupying the property.","category":"legal"}
+{"_id":{"$oid":"5cb5fbeb252abe4cf0959d1f"},"term":"Fraud","definition":"An act meant to deceive in order to get someone to part with something of value.","category":"legal"}
+{"_id":{"$oid":"5cb9086ed282a538e334a36d"},"term":"Freehold Estate","definition":"An estate in real property which continues for an indefinite period of time.","category":"legal"}
+{"_id":{"$oid":"5cb90a70d282a538e334a36e"},"term":"License Holder","definition":"Someone who holds a real estate license issued by a state licensing agency.","category":"legal"}
+{"_id":{"$oid":"5cc5ae42d282a538e334a36f"},"term":"Life Tenant","definition":"A person to whom a life estate conveys.","category":"legal"}
+{"_id":{"$oid":"5cc5ae99d282a538e334a370"},"term":"Liquid Damage","definition":"Sets in advance a specified amount of money as a penalty in the event of a breach of contract.","category":"legal"}
+{"_id":{"$oid":"5cc5af5ad282a538e334a371"},"term":"Menace","definition":"Using a threat of violence to get agreement in accepting a contract.","category":"legal"}
+{"_id":{"$oid":"5cc5afb8d282a538e334a372"},"term":"Minor","definition":"Someone under 18 years of age.","category":"legal"}
+{"_id":{"$oid":"5cc5b0f8d282a538e334a373"},"term":"Option","definition":"A right, given for consideration, to a party (optionee) by a property owner (optionor).","category":"legal"}
+{"_id":{"$oid":"5cc5b17cd282a538e334a374"},"term":"Parol Evidence","definition":"Oral or written negotiations made prior to a dispute about an executed contract","category":"legal"}
+{"_id":{"$oid":"5cc5b200d282a538e334a375"},"term":"Partition Action","definition":"A court action to divide a property held by cow-owners.","category":"legal"}
+{"_id":{"$oid":"5cc5b39dd282a538e334a376"},"term":"Range","definition":"A land description used in the U.S. Public Land Survey System (PLSS) consisting of a strip of land located every six miles and of each principle meridian.","category":"legal"}
+{"_id":{"$oid":"5cc5b473d282a538e334a377"},"term":"Real Estate Broker","definition":"A person licensed by the state to negotiate and arrange real estate transactions.","category":"legal"}
+{"_id":{"$oid":"5cc5b566d282a538e334a378"},"term":"Recission","definition":"Legal action taken to repeal a contract either by mutual consent of the parties or by one party when the other party has breached a contract.","category":"legal"}
+{"_id":{"$oid":"5cc5b68dd282a538e334a37b"},"term":"Sales Contract","definition":"Primary document used to present an offer on real property; also known as a purchase offer.","category":"legal"}
+{"_id":{"$oid":"5cc5b71ed282a538e334a37c"},"term":"Statute of Frauds","definition":"A state law which requires that certain contracts must be in writing and contain certain essential elements in order to be enforceable.","category":"legal"}
+{"_id":{"$oid":"5cc5b7a1d282a538e334a37d"},"term":"Succession","definition":"The legal transfer of a person's interest in real property under the law of descent and distribution.","category":"legal"}
+{"_id":{"$oid":"5cc5b852d282a538e334a37e"},"term":"Trade Fixture","definition":"An article of personal property affixed to leased property by the tenant as a necessary part of business; may be removed by tenant as personal property upon termination of the lease.","category":"legal"}
+{"_id":{"$oid":"5cc5b8ead282a538e334a37f"},"term":"Undivided Interest","definition":"That interest a co-owner has in property, which carries with it the right to posession and use of the whole property, along with the co-owners.","category":"legal"}
+{"_id":{"$oid":"5cc5b962d282a538e334a380"},"term":"Unenforceable","definition":"A contract that was valid when made, but either cannot be proved or will not be enforced by a court.","category":"legal"}
+{"_id":{"$oid":"5cc5b9afd282a538e334a381"},"term":"Valid","definition":"Legally binding.","category":"legal"}
+{"_id":{"$oid":"5cc5b9d1d282a538e334a382"},"term":"Valuable Consideration","definition":"Each party to a contract must give up something to make the agreement binding.","category":"legal"}
+{"_id":{"$oid":"5cc5b9ffd282a538e334a383"},"term":"Vested","definition":"Owned by","category":"legal"}
+{"_id":{"$oid":"5ceb154c784f89c2d6e8bc1a"},"term":"Accrued","definition":"Accumulated over a period of time","category":"red"}
+{"_id":{"$oid":"5ceb15e6784f89c2d6e8bc1b"},"term":"Accrued Depreciation","definition":"The difference between the cost to replace the property, and the property's current appraised value","category":"red"}
+{"_id":{"$oid":"5ceb1a53784f89c2d6e8bc1c"},"term":"Actual Age","definition":"The real age of a building","category":"red"}
+{"_id":{"$oid":"5ceb1ae3784f89c2d6e8bc1d"},"term":"Actual Depreciation","definition":"That depreciation occuring as a result of physical, functional, or economic forces that cause loss in value to a building","category":"red"}
+{"_id":{"$oid":"5ceb1bbd1b1a50c58777b83e"},"term":"Ad valorem","definition":"A Latin prefix meaing \"according to value\". Local governments levy real property tax based on the assessed value. Property taxes are known as ad valoream taxes","category":"red"}
+{"_id":{"$oid":"5ceb1d7c1b1a50c58777b83f"},"term":"Appraisal","definition":"An act or process of developing an opinion of value","category":"red"}
+{"_id":{"$oid":"5ceb200c0a192ac7e2e0e3fc"},"term":"Appraisal Report","definition":"A written report setting forth an appraisers estimate of value of a subject property","category":"red"}
+{"_id":{"$oid":"5ceb206a0a192ac7e2e0e3fd"},"term":"Appreciation","definition":"An increase in value","category":"red"}
+{"_id":{"$oid":"5ceb20bb0a192ac7e2e0e3fe"},"term":"Assemblage","definition":"Putting several smaller, less valuable parcels together under one ownership to increase value of total property","category":"red"}
+{"_id":{"$oid":"5ceb23300a192ac7e2e0e3ff"},"term":"Assessed Value","definition":"Value placed on property by a public tax assessor as a basis for taxation.","category":"red"}
+{"_id":{"$oid":"5ceb254f0a192ac7e2e0e400"},"term":"Calendar Year","definition":"This starts on January 1 and continues through Deember 31 the same year.\n","category":"red"}
+{"_id":{"$oid":"5ceb256a0a192ac7e2e0e401"},"term":"Cap Rate","definition":"A term sometimes used to refer to capitalization rate","category":"red"}
+{"_id":{"$oid":"5ceb27660a192ac7e2e0e402"},"term":"Capital Improvements","definition":"Any permanent, improvement made to real estate for the purpose of increasing the useful life of the property or increasing the property's value.","category":"red"}
+{"_id":{"$oid":"5ceb27970a192ac7e2e0e403"},"term":"Capitalization","definition":"The process of calculating the present worth of a property on the basis of its capacity to continue to produce an income stream.","category":"red"}
+{"_id":{"$oid":"5ceb27b70a192ac7e2e0e404"},"term":"Comps","definition":"A term used by real estate agents an appraisers to mean comparable properties.","category":"red"}
+{"_id":{"$oid":"5ceb2b440a192ac7e2e0e405"},"term":"Condemnation","definition":"A common name for eminent domain, or the right of the government to take private property from an owner for public use, paying fair market value","category":"red"}
+{"_id":{"$oid":"5ceb42b70a192ac7e2e0e406"},"term":"Contract Rent","definition":"The amount of rental income due from the tenant as agreed in the lease agreement","category":"red"}
+{"_id":{"$oid":"5ceb42d00a192ac7e2e0e407"},"term":"Corner Lot","definition":"A lot found at the intersection of two streets.","category":"red"}
+{"_id":{"$oid":"5ceb43570a192ac7e2e0e408"},"term":"Cost","definition":"Represents expenses in money, labor, material,  or sacrifices in aquiring or producing something.","category":"red"}
+{"_id":{"$oid":"5ceb43940a192ac7e2e0e409"},"term":"Cost Approach","definition":"An appraisal method that estimates replacement cost of the improvements, deducts estimated accrued depreciation, and then adds market value of the land.","category":"red"}
+{"_id":{"$oid":"5ceb43b30a192ac7e2e0e40a"},"term":"Cul-de-sac lot","definition":"A lot on a dead end street.","category":"red"}
+{"_id":{"$oid":"5ceb43ce0a192ac7e2e0e40b"},"term":"Deffered Maintenance","definition":"Negligent care of a building.","category":"red"}
+{"_id":{"$oid":"5ceb46040a192ac7e2e0e40c"},"term":"Demand","definition":"The desire to buy or obtain a commodity","category":"red"}
+{"_id":{"$oid":"5ceb462c0a192ac7e2e0e40d"},"term":"Depreciation","definition":"Loss in value from any cause","category":"red"}
+{"_id":{"$oid":"5ceb46510a192ac7e2e0e40e"},"term":"DUST","definition":"The 4 elements that create value. Demand, Utility, Scarcity, Transferability.","category":"red"}
+{"_id":{"$oid":"5ceb46700a192ac7e2e0e40f"},"term":"Economic Age","definition":"Age of a building determined by its condition and usefulness","category":"red"}
+{"_id":{"$oid":"5ceb46910a192ac7e2e0e410"},"term":"Economic Life","definition":"The estimated period over which an improved property may be profitably used to yield a return.","category":"red"}
+{"_id":{"$oid":"5ceb47390a192ac7e2e0e411"},"term":"Effective Age","definition":"The years or age shown by the condition and utility of a structure, rather than its actual or chronological age.","category":"red"}
+{"_id":{"$oid":"5ceb474e0a192ac7e2e0e412"},"term":"Effective Demand","definition":"The desire coupled with purchasing power.","category":"red"}
+{"_id":{"$oid":"5ceb47870a192ac7e2e0e413"},"term":"Effective Gross Income","definition":"The anticipated income resulting from estimated potential gross income from a rental property less an allowance for vacancy and bad debts.","category":"red"}
+{"_id":{"$oid":"5ceb47b00a192ac7e2e0e414"},"term":"Eminent Domain","definition":"The right of the government to take private property from the owner for public use and paying for the fair market value.\n","category":"red"}
+{"_id":{"$oid":"5ceb47e70a192ac7e2e0e415"},"term":"Environmental Impact Report","definition":"A study of how a development will affect the ecology of it's surroundings.\n","category":"red"}
+{"_id":{"$oid":"5ceb54860a192ac7e2e0e416"},"term":"Fiscal Year","definition":"A year as reckoned for taxing or accounting purposes","category":"red"}
+{"_id":{"$oid":"5ceb54980a192ac7e2e0e417"},"term":"Front Footage","definition":"The width of a property along the street.","category":"red"}
+{"_id":{"$oid":"5ceb54c00a192ac7e2e0e418"},"term":"Funcitonal Utility","definition":"The combined factors of usefulness with desirability.","category":"red"}
+{"_id":{"$oid":"5ceb55030a192ac7e2e0e419"},"term":"Gross Income Multiplier","definition":"A figure which, when multiplied by the annual gross income from all sources, not just annual rent, equals the properties market value.","category":"red"}
+{"_id":{"$oid":"5ceb552c0a192ac7e2e0e41a"},"term":"Gross Rent","definition":"Income (figured annually) received from rental units before any expenses are deducted.","category":"red"}
+{"_id":{"$oid":"5ceb55630a192ac7e2e0e41b"},"term":"Gross Rent Multiplier","definition":"A figure which, when multiplied by the monthly rental income, equals the property's market value.","category":"red"}
+{"_id":{"$oid":"5ceb55790a192ac7e2e0e41c"},"term":"Improvements","definition":"Any buildings or structures on a lot.","category":"red"}
+{"_id":{"$oid":"5ceb559b0a192ac7e2e0e41d"},"term":"Income Approach","definition":"A method of appraising property based on the property's anticipated future income.","category":"red"}
+{"_id":{"$oid":"5ceb55b50a192ac7e2e0e41e"},"term":"Market Rent","definition":"The rent a property should bring in the open market.","category":"red"}
+{"_id":{"$oid":"5ceb55e20a192ac7e2e0e41f"},"term":"Market Value","definition":"The price the property would bring if freely offered on the open market with both a willing buyer and a willing seller.","category":"red"}
+{"_id":{"$oid":"5cebda720a192ac7e2e0e420"},"term":"Net Income","definition":"Sometimes known as net operating income. The remaining income after operating expenses have been subtracted from the gross income of a property.\n","category":"red"}
+{"_id":{"$oid":"5cebdaa40a192ac7e2e0e421"},"term":"Operating Expenses","definition":"Expenditures necessary to the operation of an income producing building.","category":"red"}
+{"_id":{"$oid":"5cebdab80a192ac7e2e0e422"},"term":"Price","definition":"What is paid for something.","category":"red"}
+{"_id":{"$oid":"5cebdae10a192ac7e2e0e423"},"term":"Principle of Anticipation","definition":"The market anticipates the future benefits that are to be derived from the property.","category":"red"}
+{"_id":{"$oid":"5cebdb190a192ac7e2e0e424"},"term":"Principle of Substitution","definition":"The market value of a property is affected by the cost of obtaining an equally desireable and valuable property as a substitute","category":"red"}
+{"_id":{"$oid":"5cebdb5c0a192ac7e2e0e425"},"term":"Reconciliation","definition":"Sometimes called correlation, this is the adjustment process of weighing the results of all three appraisal methods to arrrive at a final estimate of market value for the subject property.","category":"red"}
+{"_id":{"$oid":"5cebdba30a192ac7e2e0e426"},"term":"Replacement Cost","definition":"The cost of replacing improvements with modern materials ad techniques.","category":"red"}
+{"_id":{"$oid":"5cebdbf50a192ac7e2e0e427"},"term":"Reproduction Cost","definition":"The current cost of building a replica of the subject structure using similar quality materials, refers to exact duplication of the buildings, usually costs more than replacement costs.","category":"red"}
+{"_id":{"$oid":"5cebdc200a192ac7e2e0e428"},"term":"Sales Comparison Approach","definition":"An appraisal method using the principles of substitution to compare similar properties.","category":"red"}
+{"_id":{"$oid":"5cebdc6c0a192ac7e2e0e429"},"term":"Scarcity","definition":"Less availability of a commodity in the marketplace resulting increased value when demand exceeds supply.","category":"red"}
+{"_id":{"$oid":"5cebdc8e0a192ac7e2e0e42a"},"term":"Subdivision","definition":"A plot of land divided into smaller portions for the purpose of building.","category":"red"}
+{"_id":{"$oid":"5cebdcaf0a192ac7e2e0e42b"},"term":"Supply","definition":"The total amount of an item that is for sale or lease, at various prices at any given point in time.","category":"red"}
+{"_id":{"$oid":"5cebdcd40a192ac7e2e0e42c"},"term":"Transferability","definition":"The ability to transfer ownership of an item from one person or entity to another.","category":"red"}
+{"_id":{"$oid":"5cebdcfe0a192ac7e2e0e42d"},"term":"Utility Value","definition":"The usefulness of the property.","category":"red"}
+{"_id":{"$oid":"5cebdd120a192ac7e2e0e42e"},"term":"Vacancy Factor","definition":"Lost income because of a vacant unit.","category":"red"}
+{"_id":{"$oid":"5cebdd370a192ac7e2e0e42f"},"term":"Value","definition":"The power of good or services to command other goods in exchange for the present worth of future benefits arising from ownership.","category":"red"}
+{"_id":{"$oid":"5cebdd530a192ac7e2e0e430"},"term":"Variance","definition":"An exception granted to existing zoning regulations for special reasons.","category":"red"}
+{"_id":{"$oid":"5cebe1b60a192ac7e2e0e431"},"term":"Abstract of Title","definition":"A full summary of all consecutive grants, conveyances, wills, records and judicial proceedings affecting title to a specific parcel of real estate.","category":"orange"}
+{"_id":{"$oid":"5cebe1f60a192ac7e2e0e432"},"term":"Administrator/Administratrix","definition":"A person appointed by the court to handle the affairs of a deceased person when there is no one mentioned in the will.","category":"orange"}
+{"_id":{"$oid":"5cebe2220a192ac7e2e0e433"},"term":"Actual Notice","definition":"Notice given by possession of property.","category":"orange"}
+{"_id":{"$oid":"5cebe2560a192ac7e2e0e434"},"term":"Acknowledgement","definition":"A signed statement made before a notary public by a named person; confirming the signature on a document and that it was made of free will.","category":"orange"}
+{"_id":{"$oid":"5cebe2890a192ac7e2e0e435"},"term":"Alta Policy","definition":"American Land Title Association policy of extended title insurance; can be purchased by the lender or buyer.","category":"orange"}
+{"_id":{"$oid":"5cebe2b00a192ac7e2e0e436"},"term":"Beneficiary Statement","definition":"A statement of the unpaid balance of a loan and the condition of the debt.","category":"orange"}
+{"_id":{"$oid":"5cebe2c90a192ac7e2e0e437"},"term":"Bequest","definition":"A gift of personal property by will (see legacy).","category":"orange"}
+{"_id":{"$oid":"5cebe2de0a192ac7e2e0e438"},"term":"Chain of Title","definition":"A chronological history of a property's ownership.","category":"orange"}
+{"_id":{"$oid":"5cebe3130a192ac7e2e0e439"},"term":"Closing","definition":"The act of finalizing the transaction in which the deed is delivered to the buyer, the title is transferred, and all costs are paid.","category":"orange"}
+{"_id":{"$oid":"5cebe35d0a192ac7e2e0e43a"},"term":"Closing Disclosure","definition":"Settlement statement created by the Consumer Financial Protection Bureau that must be used for any conventional residential mortgage loans that will be sold to Fannie Mae, or Freddie Mac, or that are subject to RESPA.","category":"orange"}
+{"_id":{"$oid":"5cebe3750a192ac7e2e0e43b"},"term":"Codicil","definition":"A change ina will before the maker's death.","category":"orange"}
+{"_id":{"$oid":"5cebe3950a192ac7e2e0e43c"},"term":"Constructive Notice","definition":"Public notice given by recording a document with the county recorder.","category":"orange"}
+{"_id":{"$oid":"5cebe3a90a192ac7e2e0e43d"},"term":"Devise","definition":"A gift of real property by will.","category":"orange"}
+{"_id":{"$oid":"5cebe3d20a192ac7e2e0e43e"},"term":"Escrow","definition":"The deposit of funds or documents with a neutral thrid party who is instructed to carry out the provisions of an agreement.","category":"orange"}
+{"_id":{"$oid":"5cebe3f90a192ac7e2e0e43f"},"term":"Escrow Holder","definition":"An independent third party that acts as a neutral agent of both buyer and seller.","category":"orange"}
+{"_id":{"$oid":"5cebe4350a192ac7e2e0e440"},"term":"Escrow Instructions","definition":"Written directions, signed by a buyer and seller, detailing the procedures necessary to close a transaction and direct the escrow agent in how to proceed.\n","category":"orange"}
+{"_id":{"$oid":"5cebe44b0a192ac7e2e0e441"},"term":"Execution","definition":"Completion of an act or process.","category":"orange"}
+{"_id":{"$oid":"5cebe4680a192ac7e2e0e442"},"term":"Executor/Executrix","definition":"A person named in the will to handle the affairs of a deceased person.","category":"orange"}
+{"_id":{"$oid":"5cebe4850a192ac7e2e0e443"},"term":"Extended Title Policy","definition":"An extended title insurance policy.","category":"orange"}
+{"_id":{"$oid":"5cebe4a70a192ac7e2e0e444"},"term":"Gift Deed","definition":"Used to make a gift of property to a grantee who is usually a close friend or relative.","category":"orange"}
+{"_id":{"$oid":"5cebe4d40a192ac7e2e0e445"},"term":"Good and Indefeasible Title","definition":"Title that cannot be defeated, set aside, or made void by a superior claim.","category":"orange"}
+{"_id":{"$oid":"5cebe8df58e484dc0752e929"},"term":"Grantee","definition":"The person receiving the property or to whom it is being conveyed.","category":"orange"}
+{"_id":{"$oid":"5cebe8fc58e484dc0752e92a"},"term":"Grantor","definition":"The person conveying , or transferring the property.","category":"orange"}
+{"_id":{"$oid":"5cebe91258e484dc0752e92b"},"term":"Guarantee of Title","definition":"An assurance of clear title.","category":"orange"}
+{"_id":{"$oid":"5cebe93558e484dc0752e92c"},"term":"Holographic Will","definition":"Written in the makers's own handwriting, dated, and signed by the maker.","category":"orange"}
+{"_id":{"$oid":"5cebe96b58e484dc0752e92d"},"term":"Impound of Account","definition":"A trust account set up for funds set aside for future recurring cost relating to a property.","category":"orange"}
+{"_id":{"$oid":"5cebe97f58e484dc0752e92e"},"term":"Intestate","definition":"Dying without leaving a will.","category":"orange"}
+{"_id":{"$oid":"5cebe9b458e484dc0752e92f"},"term":"Legacy","definition":"A gift of personal property by will (see bequest).","category":"orange"}
+{"_id":{"$oid":"5cebe9cb58e484dc0752e930"},"term":"Love and Affection","definition":"The consideration used in a gift deed.","category":"orange"}
+{"_id":{"$oid":"5cebe9f558e484dc0752e931"},"term":"Marketable Title","definition":"Good or clear salable title reasonably free from risk of litigation over possible defects.","category":"orange"}
+{"_id":{"$oid":"5cebea1558e484dc0752e932"},"term":"Preliminary Title Report","definition":"An offer to issue a policy of title insurance in the future for a specific fee.","category":"orange"}
+{"_id":{"$oid":"5cebea7a58e484dc0752e933"},"term":"Principal","definition":"Someone who directs or authorizes another to act in his or her place in regard to relation with third persons; buyer or seller.","category":"orange"}
+{"_id":{"$oid":"5cebeaa758e484dc0752e934"},"term":"Proration","definition":"The division and distribution of expenses and/or income between the buyer and seller of property as of the date of closing or settlement.","category":"orange"}
+{"_id":{"$oid":"5cebeac658e484dc0752e935"},"term":"Public Grant","definition":"The transfer of title by the government to a private individual.","category":"orange"}
+{"_id":{"$oid":"5cebeb2d58e484dc0752e936"},"term":"Quitclaim Deed","definition":"Transfers any interest the grantor may have at the time the deed is signed, with no warranties of clear title.","category":"orange"}
+{"_id":{"$oid":"5cebeb6c58e484dc0752e937"},"term":"Recording","definition":"The act of filing written documents affecting the title to real property with the county recorder.","category":"orange"}
+{"_id":{"$oid":"5cebeb9f58e484dc0752e938"},"term":"Settlement Statement","definition":"A complete breakdown of all cash received, all charges and credits made and all costs involved in the transaction.","category":"orange"}
+{"_id":{"$oid":"5cebebd458e484dc0752e939"},"term":"Sherriff's Deed","definition":"A deed given to a buyer when the property is sold through court action in order to satisfy a judgement for money or foreclosure of a mortgage.\n","category":"orange"}
+{"_id":{"$oid":"5cebebee58e484dc0752e93a"},"term":"Standard Title Policy","definition":"A policy of title insurance covering only matters of record.","category":"orange"}
+{"_id":{"$oid":"5cebebfe58e484dc0752e93b"},"term":"Testator/Testatrix","definition":"A person who has made a will.","category":"orange"}
+{"_id":{"$oid":"5cebec0b58e484dc0752e93c"},"term":"Title","definition":"Evidence of ownership of land.","category":"orange"}
+{"_id":{"$oid":"5cebec2d58e484dc0752e93d"},"term":"Title Insurance","definition":"An insurance policy that protects the insured against loss or damage due to defects in the property's title.","category":"orange"}
+{"_id":{"$oid":"5cebec5958e484dc0752e93e"},"term":"Tite Plant","definition":"The storage facility of a title company which holds and stores the complete title records of properties in its area.","category":"orange"}
+{"_id":{"$oid":"5cebec6f58e484dc0752e93f"},"term":"Title Commitment","definition":"A contract to issue a title insurance policy.","category":"orange"}
+{"_id":{"$oid":"5cebec7e58e484dc0752e940"},"term":"Vesting","definition":"The way title will be taken.","category":"orange"}
+{"_id":{"$oid":"5cebecad58e484dc0752e941"},"term":"Warranty Deed","definition":"A deed used to transfer title to property, guaranteeing that the title is clear and the grantor has the right to transfer it; no longer used in California.","category":"orange"}
+{"_id":{"$oid":"5cebecdd58e484dc0752e942"},"term":"Will","definition":"A written instrument by which a person makes a disposition of his or her property to take effect after his or her death.","category":"orange"}
+{"_id":{"$oid":"5cebed0a58e484dc0752e943"},"term":"Witnessed Will","definition":"A will, prepared by an attorney, that is typed and signed by the maker and two witnesses.","category":"orange"}
+{"_id":{"$oid":"5cebee9e58e484dc0752e944"},"term":"Assignee","definition":"Party to whom a lease is assigned or transferred.","category":"blue"}
+{"_id":{"$oid":"5cebeec958e484dc0752e945"},"term":"Axial Growth","definition":"City growth that occurs outward along main transportation routes; usually star shaped.","category":"blue"}
+{"_id":{"$oid":"5cebef6958e484dc0752e946"},"term":"Blind Advertising","definition":"Advertising that fails to disclose that the party is a licensee acting as an agent.","category":"blue"}
+{"_id":{"$oid":"5cebf8b358e484dc0752e949"},"term":"Blockbusting","definition":"Causing panic selling by telling people that values in the neighborhood will decline because of a specific event, such as the purchase of homes by minorities.\n","category":"blue"}
+{"_id":{"$oid":"5cebf8dd58e484dc0752e94a"},"term":"Brokerage","definition":"The occupation of a broker. A real estate brokerage is the business of selling real estate through a broker who negotiate the sale for a comission.","category":"blue"}

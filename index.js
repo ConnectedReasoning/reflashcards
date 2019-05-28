@@ -1,9 +1,25 @@
-/**
- * @format
- */
 
-import {AppRegistry} from 'react-native';
-import App from './App';
-import {name as appName} from './app.json';
+import { Navigation } from "react-native-navigation"
+import {registerScreens} from './screens';
 
-AppRegistry.registerComponent(appName, () => App);
+registerScreens();
+Navigation.events().registerAppLaunchedListener(() => {
+  Navigation.setDefaultOptions({
+    topBar:{
+      visible:false
+    },
+    layout:{
+      backgroundColor: 'white'
+    }
+  });
+  Navigation.setRoot({
+    root: {
+      component: {
+        name: `Initializing`,
+        passProps:{
+          comptext:`this is manny's comp test`
+        },
+      },
+    },
+  });
+});

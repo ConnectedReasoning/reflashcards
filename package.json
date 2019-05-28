@@ -8,7 +8,11 @@
   },
   "dependencies": {
     "react": "16.8.3",
-    "react-native": "0.59.1"
+    "react-devtools-core": "msand/react-devtools-core#4880490",
+    "react-native": "^0.59.1",
+    "react-native-card-flip": "^1.0.4",
+    "react-native-navigation": "^2.20.2",
+    "react-native-swipe-gestures": "^1.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
